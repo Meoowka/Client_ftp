@@ -18,3 +18,23 @@ C:\Users\Meoow\OneDrive\Рабочий стол\Client__ftp\obj\Debug\net6.0-win
 C:\Users\Meoow\OneDrive\Рабочий стол\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.genruntimeconfig.cache
 C:\Users\Meoow\OneDrive\Рабочий стол\Client__ftp\obj\Debug\net6.0-windows\ref\Client__ftp.dll
 C:\Users\Meoow\OneDrive\Рабочий стол\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.Properties.Resources.resources
+D:\Диплом\Client__ftp\bin\Debug\net6.0-windows\Client__ftp.exe
+D:\Диплом\Client__ftp\bin\Debug\net6.0-windows\Client__ftp.deps.json
+D:\Диплом\Client__ftp\bin\Debug\net6.0-windows\Client__ftp.runtimeconfig.json
+D:\Диплом\Client__ftp\bin\Debug\net6.0-windows\Client__ftp.dll
+D:\Диплом\Client__ftp\bin\Debug\net6.0-windows\Client__ftp.pdb
+D:\Диплом\Client__ftp\bin\Debug\net6.0-windows\FluentFTP.dll
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.csproj.AssemblyReference.cache
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.Form1.resources
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.Properties.Resources.resources
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.csproj.GenerateResource.cache
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.AssemblyInfoInputs.cache
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.AssemblyInfo.cs
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.csproj.CoreCompileInputs.cache
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.csproj.CopyComplete
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.dll
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\refint\Client__ftp.dll
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.pdb
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\Client__ftp.genruntimeconfig.cache
+D:\Диплом\Client__ftp\obj\Debug\net6.0-windows\ref\Client__ftp.dll

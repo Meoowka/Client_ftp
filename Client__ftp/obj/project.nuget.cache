@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "23B+LUV4pjhYaum6ybpSHuEZeOZ0NdEwzss3txzMzUjDwv3f4qFVzjOp/QzyxXjv6dy+ina7c0SjO92qFZ2Dzw==",
+  "dgSpecHash": "WO6+VQClQcsXLvpdV+eian45mUJYhH6tq7EDDwEXzwnhtD9nSVHLtVpDY1m+lcznNlRYgqzUndRSw4fbORSSJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Meoow\\OneDrive\\Рабочий стол\\Client__ftp\\Client__ftp.csproj",
+  "projectFilePath": "D:\\Диплом\\Client__ftp\\Client__ftp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meoow\\.nuget\\packages\\fluentftp\\48.0.3\\fluentftp.48.0.3.nupkg.sha512"
   ],

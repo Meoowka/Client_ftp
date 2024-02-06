@@ -52,60 +52,60 @@
             toolStrip1.Items.AddRange(new ToolStripItem[] { toolStripLabel1, Host_text, toolStripSeparator1, toolStripLabel2, log_text, toolStripSeparator2, toolStripLabel3, pass_text, toolStripSeparator3, toolStripButton1, toolStripSeparator4, toolStripButton2 });
             toolStrip1.Location = new Point(0, 0);
             toolStrip1.Name = "toolStrip1";
-            toolStrip1.Size = new Size(101, 450);
+            toolStrip1.Size = new Size(93, 450);
             toolStrip1.TabIndex = 0;
             toolStrip1.Text = "toolStrip1";
             // 
             // toolStripLabel1
             // 
             toolStripLabel1.Name = "toolStripLabel1";
-            toolStripLabel1.Size = new Size(98, 15);
+            toolStripLabel1.Size = new Size(90, 15);
             toolStripLabel1.Text = "Host";
             // 
             // Host_text
             // 
             Host_text.Name = "Host_text";
-            Host_text.Size = new Size(96, 23);
-            Host_text.Text = "127.0.0.1";
+            Host_text.Size = new Size(88, 23);
+            Host_text.Text = "172.25.107.236";
             // 
             // toolStripSeparator1
             // 
             toolStripSeparator1.Name = "toolStripSeparator1";
-            toolStripSeparator1.Size = new Size(98, 6);
+            toolStripSeparator1.Size = new Size(90, 6);
             // 
             // toolStripLabel2
             // 
             toolStripLabel2.Name = "toolStripLabel2";
-            toolStripLabel2.Size = new Size(98, 15);
+            toolStripLabel2.Size = new Size(90, 15);
             toolStripLabel2.Text = "user";
             // 
             // log_text
             // 
             log_text.Name = "log_text";
-            log_text.Size = new Size(96, 23);
-            log_text.Text = "Test_1";
+            log_text.Size = new Size(88, 23);
+            log_text.Text = "meoowka";
             // 
             // toolStripSeparator2
             // 
             toolStripSeparator2.Name = "toolStripSeparator2";
-            toolStripSeparator2.Size = new Size(98, 6);
+            toolStripSeparator2.Size = new Size(90, 6);
             // 
             // toolStripLabel3
             // 
             toolStripLabel3.Name = "toolStripLabel3";
-            toolStripLabel3.Size = new Size(98, 15);
+            toolStripLabel3.Size = new Size(90, 15);
             toolStripLabel3.Text = "password";
             // 
             // pass_text
             // 
             pass_text.Name = "pass_text";
-            pass_text.Size = new Size(96, 23);
-            pass_text.Text = "123123123zx";
+            pass_text.Size = new Size(88, 23);
+            pass_text.Text = "123123zx";
             // 
             // toolStripSeparator3
             // 
             toolStripSeparator3.Name = "toolStripSeparator3";
-            toolStripSeparator3.Size = new Size(98, 6);
+            toolStripSeparator3.Size = new Size(90, 6);
             // 
             // toolStripButton1
             // 
@@ -113,14 +113,14 @@
             toolStripButton1.Image = Properties.Resources.connect;
             toolStripButton1.ImageTransparentColor = Color.Magenta;
             toolStripButton1.Name = "toolStripButton1";
-            toolStripButton1.Size = new Size(98, 20);
+            toolStripButton1.Size = new Size(90, 20);
             toolStripButton1.Text = "toolStripButton1";
             toolStripButton1.Click += toolStripButton1_Click;
             // 
             // toolStripSeparator4
             // 
             toolStripSeparator4.Name = "toolStripSeparator4";
-            toolStripSeparator4.Size = new Size(98, 6);
+            toolStripSeparator4.Size = new Size(90, 6);
             // 
             // toolStripButton2
             // 
@@ -128,7 +128,7 @@
             toolStripButton2.Image = Properties.Resources.dis;
             toolStripButton2.ImageTransparentColor = Color.Magenta;
             toolStripButton2.Name = "toolStripButton2";
-            toolStripButton2.Size = new Size(98, 20);
+            toolStripButton2.Size = new Size(90, 20);
             toolStripButton2.Text = "toolStripButton2";
             toolStripButton2.Click += toolStripButton2_Click;
             // 

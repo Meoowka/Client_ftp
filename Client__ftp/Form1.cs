@@ -1,16 +1,12 @@
-using System;
 using System.Net;
-using System.Threading;
-using System.Threading.Tasks;
 using FluentFTP;
-using Microsoft.VisualBasic;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Client__ftp
 {
     public partial class Form1 : Form
     {
         FtpClient client = new FtpClient("", "", "");
+
         public Form1()
         {
             InitializeComponent();
@@ -20,15 +16,14 @@ namespace Client__ftp
         {
             client!.Host = host;
             client.Credentials = credential;
-            client.Connect();
+            client.AutoConnect();
+            client.SetWorkingDirectory("./");
         }
 
         public void Disconnect()
         {
             client!.Disconnect();
         }
-
-
 
         public void ShowLog()
         {
@@ -58,8 +53,7 @@ namespace Client__ftp
 
         public void ShowDir()
         {
-            var path = Directory.GetCurrentDirectory();
-            var listing = client.GetListing(FtpListOption.NoPath);
+            var listing = client.GetListing("./");
 
             foreach (var item in listing)
             {
